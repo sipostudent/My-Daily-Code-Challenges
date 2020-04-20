@@ -45,3 +45,7 @@
 function checkEquality(a, b) {
     return a === b;
 }
+
+//  Another Solution
+
+const checkEquality = (a, b) => a === b;

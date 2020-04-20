@@ -25,6 +25,12 @@
     - If you're really stuck, unlock solutions in the Solutions tab.
 */
 
+// Solution
+
 function triArea(base, height) {
 	return (base * height) / 2;
 }
+
+// Another Solution
+
+const triArea = (base, height) => (base * height) / 2;

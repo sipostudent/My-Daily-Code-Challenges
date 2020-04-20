@@ -30,3 +30,8 @@
 function addition(num) {
 	return num = num + 1;
 }
+// Another Solution
+
+function addition(num) {
+	return ++num;
+}

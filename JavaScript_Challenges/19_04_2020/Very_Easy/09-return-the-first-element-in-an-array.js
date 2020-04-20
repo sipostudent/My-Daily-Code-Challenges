@@ -4,7 +4,7 @@
  */
 
 /*
-    arrays - language_fundamentals
+    #arrays #language_fundamentals
     ------------------------------
 
     Create a function that takes an array and returns the first element.

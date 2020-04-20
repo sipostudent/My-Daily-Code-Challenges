@@ -4,7 +4,7 @@
  */
 
 /*
-    algorithms - math
+    #algorithms #math
     -----------------
 
     In this challenge, a farmer is asking you to tell him how many legs can be counted 

@@ -4,7 +4,7 @@
  */
 
 /*
-    math - numbers
+    #math #numbers
     --------------
 
     There is a single operator in JavaScript, capable of providing the remainder of a division 

@@ -28,3 +28,7 @@
 function frames(minutes, fps) {
 	return (fps * minutes) * 60;
 }
+
+// Another Solution
+
+const frames = (m, fps) => m * (fps * 60);

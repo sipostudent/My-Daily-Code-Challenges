@@ -26,3 +26,6 @@
     - If you're really stuck, unlock solutions in the Solutions tab.
 */
 
+function comp(str1, str2) {
+	
+}

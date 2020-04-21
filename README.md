@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="img/131210-coding-for-dummies-tease_ohllsl.jpg" width="600">
+  <img src="image/131210-coding-for-dummies-tease_ohllsl.jpg" width="600">
   <br>
     <br>
   My Daily Code Challenges

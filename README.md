@@ -11,4 +11,4 @@
 
 <h4 align="center">#problemsolving #intricaciesofaprogramminglanguage #newalgorithms</h4>
 
-<p>To improve my coding aptitudes, I tackle coding challenges most days. Answering various kinds of challenges and puzzles helps me to become a better issue solver, get familiar with the complexities of a programming language, learn new calculations, and more.</p>
+<p>To improve my coding aptitudes, I tackle coding challenges on most days. Answering various kinds of challenges and puzzles helps me to become a better issue solver, get familiar with the complexities of a programming language, learn new calculations, and more.</p>

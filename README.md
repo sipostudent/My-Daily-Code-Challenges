@@ -3,7 +3,7 @@
   <img src="img/pic.jpg" width="600">
   <br>
     <br>
-  My Daily Code Challenges...
+  My Daily Code Challenges
   <br>
 </h1>
 
